@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/MrARM/Google-Play-Decompiler/issues"
   },
-  "homepage": "https://github.com/MrARM/Google-Play-Decompiler"
+  "homepage": "https://github.com/MrARM/Google-Play-Decompiler",
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "readline-sync": "^1.4.9"
+  }
 }
