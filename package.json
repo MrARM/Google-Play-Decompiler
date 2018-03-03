@@ -1,0 +1,24 @@
+{
+  "name": "Google-Play-Decompiler",
+  "version": "0.0.0",
+  "description": "Download and decompile APK files from google play.",
+  "main": "gpd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MrARM/Google-Play-Decompiler.git"
+  },
+  "keywords": [
+    "googleplay",
+    "decompiler",
+    "java"
+  ],
+  "author": "MrARM",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MrARM/Google-Play-Decompiler/issues"
+  },
+  "homepage": "https://github.com/MrARM/Google-Play-Decompiler"
+}
